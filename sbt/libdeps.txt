@@ -1,0 +1,9 @@
+// Mongodb
+"org.mongodb" %% "casbah" % "2.7.5"
+
+//MySQL
+"mysql" % "mysql-connector-java" % "5.1.24"
+
+
+// SLF4J library
+"org.slf4j" % "slf4j-simple" % "1.6.4"
