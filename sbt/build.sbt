@@ -2,4 +2,4 @@ name := "Name"
 
 version := "0.1.0"
 
-scalaVersion := "2.11.6"
+scalaVersion := "2.10.4"
